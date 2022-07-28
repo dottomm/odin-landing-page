@@ -113,8 +113,10 @@ div{
 
 .randomInfo img{
     justify-items: baseline;
-    width:170px;
+    width:190px;
     height: auto;
+    border:1px solid #666;
+    border-radius: 12px;
 }
 
 .randomInfo p{
